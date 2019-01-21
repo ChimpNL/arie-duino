@@ -1,0 +1,17 @@
+{
+  "name": "arieduino",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "afplay": "^1.0.3",
+    "johnny-five": "^1.0.0",
+    "node-mp3-player": "^1.0.3",
+    "play-sound": "^1.1.3"
+  }
+}
